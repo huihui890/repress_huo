@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 
 app.get('/', function (req, res) {
-  res.send('Hello World 霍慧慧 3117370085')
+  res.send('Hello 霍慧慧 3117370085')
 
 })
 
